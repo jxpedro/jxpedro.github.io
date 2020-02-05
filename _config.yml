@@ -35,12 +35,13 @@ author:
 # Pagination settings
 pagination:
   enabled: true
-
+autopages:
+  enabled: true
 
 # Build settings
 markdown: kramdown
 plugins_dir:
-  - jekyll-paginate-v2
+  - jekyll-paginate
   - jekyll-sitemap
 compress_html:
   clippings: all
