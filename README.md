@@ -1,1 +1,1 @@
-jxpedro's collection of interconnected documents
+collection of interconnected documents
