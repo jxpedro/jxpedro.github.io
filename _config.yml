@@ -28,9 +28,9 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Thomas Vaeth
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
+  - name: jxpedro
+    bio: a tad asymmetrical Pedro
+    url: http://jxpedro.github.io
 
 # Pagination settings
 pagination:
@@ -41,7 +41,7 @@ pagination:
   title: ':title'
   limit: 0
   sort_field: 'date'
-  #sort_reverse: true
+  sort_reverse: true
 autopages:
   enabled: true
   categories:
@@ -51,7 +51,7 @@ autopages:
   tags:
     layouts: 
       - 'tag.html'
-    title: 'The Barber Theme'
+    title: 'collection of interconnected documents'
     permalink: '/tag/:tag'
     slugify:
       mode: raw
