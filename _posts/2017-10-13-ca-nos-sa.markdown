@@ -1,0 +1,11 @@
+---
+layout: post
+title: "ca nos sa"
+date: 2017-10-13
+description: 
+image: /assets/images/icons_web_c.png
+author: jxpedro
+tags: 
+  - entry
+---
+<a href="https://jxpedro.github.io/canossa/">cá nossa!</a>

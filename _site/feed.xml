@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>collection of interconnected documents</title>
+    <description>collection of interconnected documents
+</description>
+    <link>http://jxpedro.github.io</link>
+    <atom:link href="http://jxpedro.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 05 Feb 2020 15:17:29 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Feb 2020 15:17:29 +0000</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>ca nos sa</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://jxpedro.github.io/canossa/&quot;&gt;cá nossa!&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
+        <link>http://jxpedro.github.io/2017/10/13/ca-nos-sa/</link>
+        <guid isPermaLink="true">http://jxpedro.github.io/2017/10/13/ca-nos-sa/</guid>
+        
+        <category>entry</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>analog time tellers</title>
+        <description>&lt;p&gt;gathering&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
+        <link>http://jxpedro.github.io/2017/10/10/analog-time-tellers/</link>
+        <guid isPermaLink="true">http://jxpedro.github.io/2017/10/10/analog-time-tellers/</guid>
+        
+        <category>entry</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>on the passing of time</title>
+        <description>&lt;p&gt;in space&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+        <link>http://jxpedro.github.io/2017/10/09/on-the-passing-of-time/</link>
+        <guid isPermaLink="true">http://jxpedro.github.io/2017/10/09/on-the-passing-of-time/</guid>
+        
+        <category>entry</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
