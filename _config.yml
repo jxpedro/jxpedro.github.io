@@ -35,27 +35,27 @@ author:
 # Pagination settings
 pagination:
   enabled: true
-  debug: false
+  debug: true
   per_page: 12
   permalink: '/page/:num/'
   title: ':title'
   limit: 0
   sort_field: 'date'
-  sort_reverse: true
+  #sort_reverse: true
 autopages:
   enabled: true
   categories:
     enabled: false
   collections:
     enabled: false
-  tags:
-    layouts: 
-      - 'tag.html'
-    title: 'The Barber Theme'
-    permalink: '/tag/:tag'
-    slugify:
-      mode: raw
-      cased: true
+  #tags:
+  #  layouts: 
+  #    - 'tag.html'
+  #  title: 'The Barber Theme'
+  #  permalink: '/tag/:tag'
+  #  slugify:
+  #    mode: raw
+  #    cased: true
 
 # Build settings
 markdown: kramdown
