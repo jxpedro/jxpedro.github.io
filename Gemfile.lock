@@ -68,7 +68,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  jekyll (~> 3.8.5)
+  jekyll
   jekyll-paginate-v2
   jekyll-sitemap
   tzinfo-data
