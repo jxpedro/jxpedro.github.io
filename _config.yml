@@ -15,8 +15,6 @@ social:
   - name: github
     url: https://github.com/jxpedro
 
-
-
 # Author settings
 author:
   - name: jxpedro
@@ -28,10 +26,10 @@ pagination:
   enabled: true
   debug: false
   per_page: 12
-  permalink: '/page/:num/'
+  #permalink: '/page/:num/'
   title: ''
   limit: 0
-  sort_field: 'date'
+  #sort_field: 'date'
   sort_reverse: true
 autopages:
   enabled: true
@@ -43,16 +41,17 @@ autopages:
     layouts: 
       - 'tag.html'
     title: ':title'
-    permalink: '/tag/:tag'
+    #permalink: '/tag/:tag'
     slugify:
       mode: raw
       cased: true
 
 # Build settings
 markdown: kramdown
-plugins_dir:
-  - jekyll-paginate-v2
-  - jekyll-sitemap
+plugins: [jekyll-paginate-v2, jekyll-sitemap]
+#plugins_dir:
+#  - jekyll-paginate-v2
+#  - jekyll-sitemap
 compress_html:
   clippings: all
   comments: all
