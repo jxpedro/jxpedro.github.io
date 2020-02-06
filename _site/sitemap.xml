@@ -28,7 +28,4 @@
 <url>
 <loc>http://localhost:4000/tag/entry/</loc>
 </url>
-<url>
-<loc>http://localhost:4000/category/jekyll/</loc>
-</url>
 </urlset>
