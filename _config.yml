@@ -11,9 +11,6 @@ description: >
 url: http://jxpedro.github.io
 
 default_img: /assets/images/icons_web_e.png
-social:
-  - name: github
-    url: https://github.com/jxpedro
 
 # Author settings
 author:
