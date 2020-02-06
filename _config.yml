@@ -33,12 +33,12 @@ autopages:
   categories:
     enabled: true
   collections:
-    enabled: true
+    enabled: false
   tags:
     layouts: 
       - 'tag.html'
     title: ':title'
-    #permalink: '/tag/:tag'
+    permalink: '/tag/:tag'
     slugify:
       mode: raw
       cased: true

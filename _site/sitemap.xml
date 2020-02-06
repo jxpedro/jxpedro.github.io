@@ -24,7 +24,4 @@
 <url>
 <loc>http://localhost:4000/tag/entry/</loc>
 </url>
-<url>
-<loc>http://localhost:4000/collection/posts/</loc>
-</url>
 </urlset>
