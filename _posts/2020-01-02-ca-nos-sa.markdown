@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "ca nos sa"
-date: 2020-01-01
-description: 
+date: 2020-01-02
+description: cá nossa!
 image: /assets/images/icons_web_c.png
 author: jxpedro
 tags: 

@@ -6,22 +6,22 @@
 </description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Feb 2020 00:57:25 +0000</pubDate>
-    <lastBuildDate>Thu, 06 Feb 2020 00:57:25 +0000</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
+    <pubDate>Thu, 06 Feb 2020 10:21:52 +0000</pubDate>
+    <lastBuildDate>Thu, 06 Feb 2020 10:21:52 +0000</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
     
       <item>
-        <title>on the passing of time</title>
-        <description>&lt;p&gt;in space&lt;/p&gt;
+        <title>analog time tellers</title>
+        <description>&lt;p&gt;gathering&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
 </description>
-        <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2020/01/01/on-the-passing-of-time/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/01/01/on-the-passing-of-time/</guid>
+        <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2020/01/03/analog-time-tellers/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/03/analog-time-tellers/</guid>
         
         <category>entry</category>
         
@@ -37,9 +37,9 @@
 &lt;hr /&gt;
 
 </description>
-        <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2020/01/01/ca-nos-sa/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/01/01/ca-nos-sa/</guid>
+        <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2020/01/02/ca-nos-sa/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/02/ca-nos-sa/</guid>
         
         <category>entry</category>
         
@@ -47,8 +47,8 @@
       </item>
     
       <item>
-        <title>analog time tellers</title>
-        <description>&lt;p&gt;gathering&lt;/p&gt;
+        <title>on the passing of time</title>
+        <description>&lt;p&gt;in space&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
 
@@ -56,8 +56,8 @@
 
 </description>
         <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2020/01/01/analog-time-tellers/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/01/01/analog-time-tellers/</guid>
+        <link>http://localhost:4000/2020/01/01/on-the-passing-of-time/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/01/on-the-passing-of-time/</guid>
         
         <category>entry</category>
         

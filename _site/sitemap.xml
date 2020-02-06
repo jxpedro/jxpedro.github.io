@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/2020/01/01/analog-time-tellers/</loc>
-<lastmod>2020-01-01T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/2020/01/01/ca-nos-sa/</loc>
-<lastmod>2020-01-01T00:00:00+00:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/2020/01/01/on-the-passing-of-time/</loc>
 <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2020/01/02/ca-nos-sa/</loc>
+<lastmod>2020-01-02T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2020/01/03/analog-time-tellers/</loc>
+<lastmod>2020-01-03T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/404</loc>
