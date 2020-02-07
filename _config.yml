@@ -19,15 +19,18 @@ author:
     url: http://jxpedro.github.io
 
 # Pagination settings
-pagination:
-  enabled: true
-  debug: false
-  per_page: 6
-  permalink: '/page/:num/'
-  title: ''
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
+paginate: 5
+paginate_path: "/page:num/"
+
+#pagination:
+#  enabled: true
+#  debug: false
+#  per_page: 6
+#  permalink: '/page/:num/'
+#  title: ''
+#  limit: 0
+#  sort_field: 'date'
+#  sort_reverse: true
 autopages:
   enabled: true
   categories:
@@ -45,7 +48,7 @@ autopages:
 
 # Build settings
 markdown: kramdown
-plugins: [jekyll-paginate-v2, jekyll-sitemap]
+plugins: [jekyll-paginate, jekyll-sitemap]
 #plugins_dir:
 #  - jekyll-paginate-v2
 #  - jekyll-sitemap
