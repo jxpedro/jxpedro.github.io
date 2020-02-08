@@ -8,7 +8,7 @@ author: jxpedro
 tags: 
   - entry
 ---
-gathering
+<a href="https://analogtimetellers.blogspot.com/">a gathering of collected watches</a>
 
 <p></p>
 
