@@ -8,7 +8,7 @@ author: jxpedro
 tags:
   - entry
 ---
-<a href="https://onthepassingoftime.blogspot.com/">somewhere in space</a>
+<a href="http://jxpedro.github.io/onthepassingoftime/">somewhere in space</a>
 
 <p></p>
 
