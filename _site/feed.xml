@@ -4,15 +4,15 @@
     <title>collection of interconnected documents</title>
     <description>collection of interconnected documents
 </description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 07 Feb 2020 22:06:21 +0000</pubDate>
-    <lastBuildDate>Fri, 07 Feb 2020 22:06:21 +0000</lastBuildDate>
+    <link>http://jxpedro.github.io</link>
+    <atom:link href="http://jxpedro.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 09 Feb 2020 08:27:30 +0000</pubDate>
+    <lastBuildDate>Sun, 09 Feb 2020 08:27:30 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
         <title>analog time tellers</title>
-        <description>&lt;p&gt;gathering&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;https://analogtimetellers.blogspot.com/&quot;&gt;a gathering of collected watches&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
 
@@ -20,8 +20,8 @@
 
 </description>
         <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2020/01/03/analog-time-tellers/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/01/03/analog-time-tellers/</guid>
+        <link>http://jxpedro.github.io/analog-time-tellers/</link>
+        <guid isPermaLink="true">http://jxpedro.github.io/analog-time-tellers/</guid>
         
         <category>entry</category>
         
@@ -38,8 +38,8 @@
 
 </description>
         <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2020/01/02/ca-nos-sa/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/01/02/ca-nos-sa/</guid>
+        <link>http://jxpedro.github.io/ca-nos-sa/</link>
+        <guid isPermaLink="true">http://jxpedro.github.io/ca-nos-sa/</guid>
         
         <category>entry</category>
         
@@ -48,7 +48,7 @@
     
       <item>
         <title>on the passing of time</title>
-        <description>&lt;p&gt;in space&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://jxpedro.github.io/onthepassingoftime/&quot;&gt;somewhere in space&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
 
@@ -56,8 +56,8 @@
 
 </description>
         <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2020/01/01/on-the-passing-of-time/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/01/01/on-the-passing-of-time/</guid>
+        <link>http://jxpedro.github.io/on-the-passing-of-time/</link>
+        <guid isPermaLink="true">http://jxpedro.github.io/on-the-passing-of-time/</guid>
         
         <category>entry</category>
         
