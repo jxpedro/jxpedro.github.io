@@ -1,1 +1,1 @@
-[https://jxpedro.github.io/][collection of interconnected documents]
+[collection of interconnected documents](https://jxpedro.github.io/)
